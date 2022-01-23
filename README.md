@@ -1,5 +1,6 @@
 <h2>👋 Hello, I’m Mohammad Sami Shaikh</h2>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=samishaikh6810.samishaikh6810)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=samishaikh6810.samishaikh6810) [![GitHub followers](https://img.shields.io/github/followers/samishaikh6810.svg?style=social&label=Follow)](https://github.com/samishaikh6810?tab=followers)
 
 - 👀 I’m interested in Coding, Disigning, AI, ML, Computer Science, 
 - 🌱 I’m currently learning Python, AI, ML
