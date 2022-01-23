@@ -14,7 +14,3 @@ You can click the Preview link to take a look at your changes.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samishaikh6810&langs_count=11)
 
 
-
-<a href="https:#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samishaikh6810&repo=samishaikh6810" />
-</a>
