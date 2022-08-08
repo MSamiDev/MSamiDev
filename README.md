@@ -14,31 +14,25 @@ You can click the Preview link to take a look at your changes.
 
 
 
+<!-- Contribution Graph-->
+[![Mohammad Sami's github activity graph](https://activity-graph.herokuapp.com/graph?username=SamiShaikh6810&theme=xcode&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/samishaikh6810)
 
-
-<div>
+<p align="center">
+<a href="https://github.com/Jiganesh" title="Redirect's to Jiganesh's Github">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=samishaikh6810&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a>
   
-  <p align="center">
-  <b><em>GitHub Stats:</em></b>
-    <br/><br/>
-    <a href="https://github.com/samishaikh6810">
-      <img align="center" style="margin:30px;" src="https://github-readme-stats.vercel.app/api?username=samishaikh6810&show_icons=true" />
-    </a>
-    <br/><br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=samishaikh6810" alt="GitHub Stats" />
-    <br/><br/>
-    <a href="https://github.com/samishaikh6810">
-      <img align="center"style="margin:30px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samishaikh6810&langs_count=11" />
-    </a>
-  </p>
-</div>
+<a href="https://github.com/Jiganesh">
+<img width="49%" title="Redirect's to Mohammad Sami Github" src="https://github-readme-streak-stats.herokuapp.com/?user=samishaikh6810&theme=dark&theme=black-ice&stroke=0000" /></a>
+
+<a href ="https://github.com/Jiganesh" title="Redirect's to Jiganesh Github">
+<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samishaikh6810&layout=compact&theme=dark&langs_count=6&count_private=false&text_color=d3d3d3&title_color=00E6FE"/></a>
+
 
 
 
 <h2>📫 How to reach me ...</h2>
 
 <a href="mailto:mohammadsami@duck.com">![ConnectWith@laxmena.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-
 <br/><br/>
 <h2>📱 My Social Handles ...</h2>
 
