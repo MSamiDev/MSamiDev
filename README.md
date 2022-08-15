@@ -20,13 +20,13 @@ You can click the Preview link to take a look at your changes.
 [![Mohammad Sami's github activity graph](https://activity-graph.herokuapp.com/graph?username=SamiShaikh6810&theme=xcode&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/samishaikh6810)
 
 <p align="center">
-<a href="https://github.com/SamiShaikh6810" title="Redirect's to Jiganesh's Github">
+<a href="https://github.com/SamiShaikh6810" title="Redirect's to Mohammad Sami's Github">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=samishaikh6810&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a>
   
 <a href="https://github.com/SamiShaikh6810">
 <img width="49%" title="Redirect's to Mohammad Sami Github" src="https://github-readme-streak-stats.herokuapp.com/?user=samishaikh6810&theme=dark&theme=black-ice&stroke=0000" /></a>
 
-<a href ="https://github.com/SamiShaikh6810" title="Redirect's to Jiganesh Github">
+<a href ="https://github.com/SamiShaikh6810" title="Redirect's to Mohammad Sami's Github">
 <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samishaikh6810&layout=compact&theme=dark&langs_count=6&count_private=false&text_color=d3d3d3&title_color=00E6FE"/></a>
 
 
@@ -40,4 +40,4 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://www.linkedin.com/in/1-from-ummah/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://www.instagram.com/1_from_ummah/">![Instagram](https://img.shields.io/badge/Instagram-ea3991?style=for-the-badge&logo=instagram&logoColor=white)</a>
-<a href="https://www.twitter.com/1-from-ummah/">![LinkedIn](https://img.shields.io/badge/Twitter-3091f3?style=for-the-badge&logo=twitter&logoColor=white)</a>
+<a href="https://www.twitter.com/MSamiDev/">![LinkedIn](https://img.shields.io/badge/Twitter-3091f3?style=for-the-badge&logo=twitter&logoColor=white)</a>
