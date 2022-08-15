@@ -1,4 +1,4 @@
-![Test Image 3](/MohammadSami.png)
+![Test Image 3](/assets/MohammadSami.png)
 
 ## 👋 Hello, I’m Mohammad Sami Shaikh
 
