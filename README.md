@@ -1,9 +1,4 @@
-<img
-src="assets/MohammadSami.png”
-raw=true
-alt= "Mohammad Sami"
-style=“margin: 10px;”
-/>
+![Test Image 3](/MohammadSami.png)
 
 ## 👋 Hello, I’m Mohammad Sami Shaikh
 
