@@ -48,4 +48,12 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <!--START_SECTION:waka-->
 
+```text
+From: 13 August 2022 - To: 20 August 2022
+
+Total Time: 5 hrs 45 mins
+
+Other        4 hrs 11 mins   ██████████████████▒░░░░░░   72.70 %
+```
+
 <!--END_SECTION:waka-->
