@@ -40,4 +40,12 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://www.linkedin.com/in/1-from-ummah/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://www.instagram.com/1_from_ummah/">![Instagram](https://img.shields.io/badge/Instagram-ea3991?style=for-the-badge&logo=instagram&logoColor=white)</a>
-<a href="https://www.twitter.com/MSamiDev/">![LinkedIn](https://img.shields.io/badge/Twitter-3091f3?style=for-the-badge&logo=twitter&logoColor=white)</a>
+<a href="https://www.twitter.com/MSamiDev/">![Twitter](https://img.shields.io/badge/Twitter-3091f3?style=for-the-badge&logo=twitter&logoColor=white)</a>
+
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/MohammadSami" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
