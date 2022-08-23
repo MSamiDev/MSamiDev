@@ -49,7 +49,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 August 2022 - To: 21 August 2022
+From: 15 August 2022 - To: 22 August 2022
 
 Total Time: 5 hrs 47 mins
 
