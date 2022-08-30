@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
 ![Mohammad Sami](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Mohammad Sami](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![Mohammad Sami](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Mohammad Sami](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Mohammad Sami](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=openjdk&logoColor=black)
 
 
 ### ☁ Cloud
