@@ -16,6 +16,13 @@ You can click the Preview link to take a look at your changes.
 ![Mohammad Sami](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samishaikh6810&theme=vue)
 ![Mohammad Sami](https://github-profile-trophy.vercel.app/?username=samishaikh6810)
 
+
+|  My Github                                                                                                                                                                                         |  Stats       |
+| -----------                                                                                                                                                                                        | ----------- |
+| ![Mohammad Sami](https://github-readme-stats.vercel.app/api?username=samishaikh6810&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE)          | ![Mohammad Sami](https://github-readme-streak-stats.herokuapp.com/?user=samishaikh6810&theme=dark&theme=black-ice&stroke=0000)       |
+| ![Mohammad Sami](https://github-readme-stats.vercel.app/api/top-langs/?username=samishaikh6810&layout=compact&theme=dark&langs_count=6&count_private=false&text_color=d3d3d3&title_color=00E6FE)   | ![Mohammad Sami](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samishaikh6810&theme=vue)        |
+
+
 ![Mohammad Sami](https://github-readme-stats.vercel.app/api?username=samishaikh6810&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE)
 ![Mohammad Sami](https://github-readme-streak-stats.herokuapp.com/?user=samishaikh6810&theme=dark&theme=black-ice&stroke=0000)
 ![Mohammad Sami](https://github-readme-stats.vercel.app/api/top-langs/?username=samishaikh6810&layout=compact&theme=dark&langs_count=6&count_private=false&text_color=d3d3d3&title_color=00E6FE)
