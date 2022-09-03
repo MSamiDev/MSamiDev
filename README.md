@@ -17,18 +17,7 @@ You can click the Preview link to take a look at your changes.
 | -----------                                                                                                                                                                                        | -----------                                                                                                                          |
 | ![Mohammad Sami](https://github-readme-stats.vercel.app/api?username=samishaikh6810&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE)          | ![Mohammad Sami](https://github-readme-streak-stats.herokuapp.com/?user=samishaikh6810&theme=dark&theme=black-ice&stroke=0000)       |
 | ![Mohammad Sami](https://github-readme-stats.vercel.app/api/top-langs/?username=samishaikh6810&layout=compact&theme=dark&langs_count=6&count_private=false&text_color=d3d3d3&title_color=00E6FE)   | ![Mohammad Sami](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samishaikh6810&theme=vue)        |
-
-<!-- <p align="center">
-<!-- <a href="https://github.com/SamiShaikh6810" title="Redirect's to Mohammad Sami's Github">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=samishaikh6810&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a> -->
   
-<!-- <a href="https://github.com/SamiShaikh6810">
-<img width="49%" title="Redirect's to Mohammad Sami Github" src="https://github-readme-streak-stats.herokuapp.com/?user=samishaikh6810&theme=dark&theme=black-ice&stroke=0000" /></a>
-
-<a href ="https://github.com/SamiShaikh6810" title="Redirect's to Mohammad Sami's Github">
-<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samishaikh6810&layout=compact&theme=dark&langs_count=6&count_private=false&text_color=d3d3d3&title_color=00E6FE"/></a> --> 
-<br/><br/>
-
 ***
 
 ## 👩‍💻 My Tech Stack which I have worked with or just hands-on
@@ -49,14 +38,13 @@ You can click the Preview link to take a look at your changes.
 | 📈 Version Control | ![Mohammad Sami](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Mohammad Sami](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  |
 | 📦 CI/CD      | ![Mohammad Sami](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)  |
 | 📦 Containers | ![Mohammad Sami](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-
+  
 ***
 
 ## 📫 How to reach me
 
 [![ConnectWith@laxmena.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadsami@duck.com)
-<br/><br/>
-
+  
 ***
 
 ## 📱 My Social Handles
@@ -64,14 +52,12 @@ You can click the Preview link to take a look at your changes.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadsamishaikh/)
 [![Instagram](https://img.shields.io/badge/Instagram-ea3991?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/1_from_ummah/)
 [![Twitter](https://img.shields.io/badge/Twitter-3091f3?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/MSamiDev/)
-<br/><br/>
-
+  
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 [![Buy me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/MohammadSami)
-
-<br/><br/>
-
+  
+***
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
