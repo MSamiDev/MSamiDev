@@ -13,8 +13,6 @@ You can click the Preview link to take a look at your changes.
 <!-- Contribution Graph-->
 [![Mohammad Sami's github activity graph](https://activity-graph.herokuapp.com/graph?username=samishaikh6810&theme=xcode&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/samishaikh6810)
 
-![Mohammad Sami](https://github-profile-trophy.vercel.app/?username=samishaikh6810)
-
 |  Stats                                                                                                                                                                                             |  Stats                                                                                                                               |
 | -----------                                                                                                                                                                                        | -----------                                                                                                                          |
 | ![Mohammad Sami](https://github-readme-stats.vercel.app/api?username=samishaikh6810&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE)          | ![Mohammad Sami](https://github-readme-streak-stats.herokuapp.com/?user=samishaikh6810&theme=dark&theme=black-ice&stroke=0000)       |
