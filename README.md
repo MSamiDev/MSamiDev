@@ -59,15 +59,15 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   
 ***
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-149-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-114-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--104%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 150 Contributions in the Year 2022
+> 🏆 153 Contributions in the Year 2022
  > 
 > 📦 131.0 kB Used in GitHub's Storage 
  > 
@@ -77,54 +77,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
  > 
 > 🔑 0 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    15 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
-🌆 Daytime    24 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.2% 
-🌃 Evening    47 commits     █████████░░░░░░░░░░░░░░░░   37.6% 
-🌙 Night      39 commits     ███████░░░░░░░░░░░░░░░░░░   31.2%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.6% 
-Tuesday      8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.4% 
-Wednesday    11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.8% 
-Thursday     22 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.6% 
-Friday       33 commits     ██████░░░░░░░░░░░░░░░░░░░   26.4% 
-Saturday     17 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.6% 
-Sunday       22 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.6%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Markdown                 33 mins             ███████████████░░░░░░░░░░   60.5% 
-Go                       12 mins             █████░░░░░░░░░░░░░░░░░░░░   21.92% 
-Python                   9 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.3% 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23% 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
-
-🔥 Editors: 
-VS Code                  54 mins             █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-Brain-Tumor-Classificatio42 mins             ███████████████████░░░░░░   78.03% 
-GoLang                   12 mins             █████░░░░░░░░░░░░░░░░░░░░   21.92% 
-WT_Demo                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
-
-💻 Operating System: 
-Mac                      54 mins             █████████████████████████   100.0%
-
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -141,5 +93,5 @@ HTML                     1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/SamiShaikh6810/SamiShaikh6810/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/09/2022 18:47:50 UTC
+ Last Updated on 04/09/2022 18:47:54 UTC
 <!--END_SECTION:waka-->
