@@ -59,9 +59,9 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   
 ***
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%208%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-91-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-101-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--104%20Thousand%20lines%20of%20code-blue)
 
@@ -144,5 +144,5 @@ Go                       1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/SamiShaikh6810/SamiShaikh6810/main/charts/bar_graph.png) 
 
 
- Last Updated on 10/09/2022 16:42:47 UTC
+ Last Updated on 10/09/2022 18:51:34 UTC
 <!--END_SECTION:waka-->
