@@ -6,7 +6,7 @@
 ![Mohammad Sami](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsamishaikh68101212%2Fhit-counter)
 
 <!---
-SamiShaikh6810/SamiShaikh6810 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSamiDev/MSamiDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
@@ -15,8 +15,8 @@ You can click the Preview link to take a look at your changes.
 
 |  Stats                                                                                                                                                                                             |  Stats                                                                                                                               |
 | -----------                                                                                                                                                                                        | -----------                                                                                                                          |
-| ![Mohammad Sami](https://github-readme-stats.vercel.app/api?username=samishaikh6810&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE)          | ![Mohammad Sami](https://github-readme-streak-stats.herokuapp.com/?user=samishaikh6810&theme=dark&theme=black-ice&stroke=0000)       |
-| ![Mohammad Sami](https://github-readme-stats.vercel.app/api/top-langs/?username=samishaikh6810&layout=compact&theme=dark&langs_count=6&count_private=false&text_color=d3d3d3&title_color=00E6FE)   | ![Mohammad Sami](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samishaikh6810&theme=vue)        |
+| ![Mohammad Sami](https://github-readme-stats.vercel.app/api?username=MSamiDev&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE)          | ![Mohammad Sami](https://github-readme-streak-stats.herokuapp.com/?user=MSamiDev&theme=dark&theme=black-ice&stroke=0000)       |
+| ![Mohammad Sami](https://github-readme-stats.vercel.app/api/top-langs/?username=MSamiDev&layout=compact&theme=dark&langs_count=6&count_private=false&text_color=d3d3d3&title_color=00E6FE)   | ![Mohammad Sami](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MSamiDev&theme=vue)        |
   
 ***
 
@@ -142,7 +142,7 @@ Go                       1 repo              ██░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/SamiShaikh6810/SamiShaikh6810/main/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/MSamiDev/MSamiDev/main/charts/bar_graph.png) 
 
 
  Last Updated on 20/09/2022 18:56:39 UTC
