@@ -2,8 +2,8 @@
 
 # 👋 Hello, I’m Mohammad Sami Shaikh
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=MSamiDev.MSamiDev) [![GitHub followers](https://img.shields.io/github/followers/MSamiDev.svg?style=social&label=Follow)](https://github.com/MSamiDev?tab=followers)
-![Mohammad Sami](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMSamiDev1212%2Fhit-counter)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=MSamiDev.visitor-badge) [![GitHub followers](https://img.shields.io/github/followers/MSamiDev.svg?style=social&label=Follow)](https://github.com/MSamiDev?tab=followers)
+![Mohammad Sami](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSamiDev1212%2Fhit-counter)
 
 <!---
 MSamiDev/MSamiDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
