@@ -2,8 +2,8 @@
 
 # 👋 Hello, I’m Mohammad Sami Shaikh
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=samishaikh6810.samishaikh6810) [![GitHub followers](https://img.shields.io/github/followers/samishaikh6810.svg?style=social&label=Follow)](https://github.com/samishaikh6810?tab=followers)
-![Mohammad Sami](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsamishaikh68101212%2Fhit-counter)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=MSamiDev.MSamiDev) [![GitHub followers](https://img.shields.io/github/followers/MSamiDev.svg?style=social&label=Follow)](https://github.com/MSamiDev?tab=followers)
+![Mohammad Sami](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMSamiDev1212%2Fhit-counter)
 
 <!---
 MSamiDev/MSamiDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!-- Contribution Graph-->
-[![Mohammad Sami's github activity graph](https://activity-graph.herokuapp.com/graph?username=samishaikh6810&theme=xcode&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/samishaikh6810)
+[![Mohammad Sami's github activity graph](https://activity-graph.herokuapp.com/graph?username=MSamiDev&theme=xcode&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/MSamiDev)
 
 |  Stats                                                                                                                                                                                             |  Stats                                                                                                                               |
 | -----------                                                                                                                                                                                        | -----------                                                                                                                          |
