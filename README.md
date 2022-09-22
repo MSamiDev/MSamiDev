@@ -2,21 +2,19 @@
 
 # 👋 Hello, I’m Mohammad Sami Shaikh
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=MSamiDev.visitor-badge) [![GitHub followers](https://img.shields.io/github/followers/MSamiDev.svg?style=social&label=Follow)](https://github.com/MSamiDev?tab=followers)
-![Mohammad Sami](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSamiDev1212%2Fhit-counter)
-
+![visitor badge](https://komarev.com/ghpvc/?username=MSamiDev&style=for-the-badge&color=F26F2D) [![GitHub followers](https://img.shields.io/github/followers/MSamiDev.svg?style=for-the-badge&label=Follow&color=F26F2D)](https://github.com/MSamiDev?tab=followers)
 <!---
 MSamiDev/MSamiDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
 <!-- Contribution Graph-->
-[![Mohammad Sami's github activity graph](https://activity-graph.herokuapp.com/graph?username=MSamiDev&theme=xcode&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/MSamiDev)
+[![Mohammad Sami's github activity graph](https://activity-graph.herokuapp.com/graph?username=MSamiDev&theme=xcode&bg_color=010811&color=F3CCAE&line=F5F3E4&point=F26F2D&hide_border=true)](https://github.com/MSamiDev)
 
 |  Stats                                                                                                                                                                                             |  Stats                                                                                                                               |
 | -----------                                                                                                                                                                                        | -----------                                                                                                                          |
-| ![Mohammad Sami](https://github-readme-stats.vercel.app/api?username=MSamiDev&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE)          | ![Mohammad Sami](https://github-readme-streak-stats.herokuapp.com/?user=MSamiDev&theme=dark&theme=black-ice&stroke=0000)       |
-| ![Mohammad Sami](https://github-readme-stats.vercel.app/api/top-langs/?username=MSamiDev&layout=compact&theme=dark&langs_count=6&count_private=false&text_color=d3d3d3&title_color=00E6FE)   | ![Mohammad Sami](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MSamiDev&theme=vue)        |
+| ![Mohammad Sami](https://github-readme-stats.vercel.app/api?username=MSamiDev&show_icons=true&theme=dark&count_private=true&text_color=F5F3E4&icon_color=F26F2D&title_color=F26F2D)          | ![Mohammad Sami](https://github-readme-streak-stats.herokuapp.com/?user=MSamiDev&theme=dark&hide_border=true&background=010811&fire=F26F2D&ring=F3CCAE&stroke=F5F3E4&currStreakLabel=F26F2D&sideNums=F26F2D&sideLabels=F3CCAE)       |
+| ![Mohammad Sami](https://github-readme-stats.vercel.app/api/top-langs/?username=MSamiDev&layout=compact&theme=dark&langs_count=6&count_private=true&text_color=F5F3E4&title_color=F3CCAE)   | ![Mohammad Sami](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MSamiDev&theme=gruvbox)        |
   
 ***
 
@@ -59,11 +57,11 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   
 ***
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2020%20mins-blue?style=for-the-badge)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-39-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-39-blue?style=for-the-badge)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--99%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--99%20Thousand%20lines%20of%20code-blue?style=for-the-badge)
 
 **🐱 My GitHub Data** 
 
