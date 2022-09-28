@@ -57,7 +57,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   
 ***
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-39-blue)
 
@@ -65,9 +65,9 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 **🐱 My GitHub Data** 
 
-> 🏆 262 Contributions in the Year 2022
+> 🏆 265 Contributions in the Year 2022
  > 
-> 📦 141.1 kB Used in GitHub's Storage 
+> 📦 141.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -75,6 +75,54 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
  > 
 > 🔑 0 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    27 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.22% 
+🌆 Daytime    59 commits     ██████░░░░░░░░░░░░░░░░░░░   26.7% 
+🌃 Evening    74 commits     ████████░░░░░░░░░░░░░░░░░   33.48% 
+🌙 Night      61 commits     ███████░░░░░░░░░░░░░░░░░░   27.6%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       35 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.84% 
+Tuesday      11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.98% 
+Wednesday    26 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
+Thursday     45 commits     █████░░░░░░░░░░░░░░░░░░░░   20.36% 
+Friday       39 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
+Saturday     23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.41% 
+Sunday       42 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.0%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+JavaScript               3 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   36.67% 
+Java                     3 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   36.02% 
+SCSS                     2 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   25.2% 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.87% 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.81%
+
+🔥 Editors: 
+VS Code                  5 hrs 36 mins       ███████████████░░░░░░░░░░   63.1% 
+IntelliJ                 3 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   36.9%
+
+🐱‍💻 Projects: 
+whatcode-project         5 hrs 36 mins       ███████████████░░░░░░░░░░   63.1% 
+LeetCode                 3 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   36.9%
+
+💻 Operating System: 
+Mac                      8 hrs 52 mins       █████████████████████████   100.0%
+
+```
+
 **I Mostly Code in SCSS** 
 
 ```text
@@ -92,5 +140,5 @@ Go                       1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MSamiDev/MSamiDev/main/charts/bar_graph.png) 
 
 
- Last Updated on 26/09/2022 18:57:14 UTC
+ Last Updated on 28/09/2022 19:01:10 UTC
 <!--END_SECTION:waka-->
