@@ -59,7 +59,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%2037%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--37%20Thousand%20lines%20of%20code-blue)
 
@@ -104,18 +104,18 @@ Sunday       46 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    1 hr 5 mins         █████████████████████████   100.0%
+Other                    1 hr 3 mins         █████████████████████████   100.0%
 
 🔥 Editors: 
-iTerm2                   1 hr 5 mins         █████████████████████████   100.0%
+iTerm2                   1 hr 3 mins         █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-LaTeXTemplates_developer-54 mins             ████████████████████░░░░░   82.54% 
-LeetCodeProblems         11 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.45% 
+LaTeXTemplates_developer-51 mins             ████████████████████░░░░░   81.79% 
+LeetCodeProblems         11 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.2% 
 food_lab                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 💻 Operating System: 
-Mac                      1 hr 5 mins         █████████████████████████   100.0%
+Mac                      1 hr 3 mins         █████████████████████████   100.0%
 
 ```
 
@@ -136,5 +136,5 @@ Go                       1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MSamiDev/MSamiDev/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/10/2022 19:05:27 UTC
+ Last Updated on 14/10/2022 18:59:00 UTC
 <!--END_SECTION:waka-->
