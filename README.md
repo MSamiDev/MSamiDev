@@ -59,13 +59,13 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%2019%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--37%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 290 Contributions in the Year 2022
+> 🏆 291 Contributions in the Year 2022
  > 
 > 📦 141.4 kB Used in GitHub's Storage 
  > 
@@ -104,20 +104,16 @@ Sunday       47 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     1 hr 9 mins         ██████████████████████░░░   87.7% 
-CSS                      7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.64% 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.65%
+Other                    0 secs              █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  1 hr 17 mins        ████████████████████████░   97.35% 
-iTerm2                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.65%
+iTerm2                   0 secs              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Git-CheatSheet           1 hr 17 mins        ████████████████████████░   98.13% 
-LeetCodeProblems         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.87%
+Git-CheatSheet           0 secs              █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      1 hr 19 mins        █████████████████████████   100.0%
+Mac                      0 secs              █████████████████████████   100.0%
 
 ```
 
@@ -138,5 +134,5 @@ Go                       1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MSamiDev/MSamiDev/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/10/2022 18:55:56 UTC
+ Last Updated on 24/10/2022 19:08:13 UTC
 <!--END_SECTION:waka-->
