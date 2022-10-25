@@ -57,7 +57,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   
 ***
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
@@ -104,16 +104,16 @@ Sunday       47 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    0 secs              █████████████████████████   100.0%
+Other                    50 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-iTerm2                   0 secs              █████████████████████████   100.0%
+iTerm2                   50 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Git-CheatSheet           0 secs              █████████████████████████   100.0%
+Git-CheatSheet           50 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.0%
+Mac                      50 mins             █████████████████████████   100.0%
 
 ```
 
@@ -134,5 +134,5 @@ Go                       1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MSamiDev/MSamiDev/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/10/2022 19:08:13 UTC
+ Last Updated on 25/10/2022 19:26:24 UTC
 <!--END_SECTION:waka-->
