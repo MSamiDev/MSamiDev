@@ -67,7 +67,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 > 🏆 315 Contributions in the Year 2022
  > 
-> 📦 144.3 kB Used in GitHub's Storage 
+> 📦 144.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -104,16 +104,16 @@ Sunday       49 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C                        5 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-os prac                  5 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      5 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -134,5 +134,5 @@ Go                       1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MSamiDev/MSamiDev/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/11/2022 18:50:04 UTC
+ Last Updated on 08/11/2022 19:00:53 UTC
 <!--END_SECTION:waka-->
