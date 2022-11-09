@@ -61,13 +61,13 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--8%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--14%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 315 Contributions in the Year 2022
+> 🏆 316 Contributions in the Year 2022
  > 
-> 📦 144.4 kB Used in GitHub's Storage 
+> 📦 145.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -75,48 +75,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
  > 
 > 🔑 0 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.17% 
-🌆 Daytime    73 commits     ███████░░░░░░░░░░░░░░░░░░   29.55% 
-🌃 Evening    78 commits     ████████░░░░░░░░░░░░░░░░░   31.58% 
-🌙 Night      61 commits     ██████░░░░░░░░░░░░░░░░░░░   24.7%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       39 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
-Tuesday      16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.48% 
-Wednesday    26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
-Thursday     54 commits     █████░░░░░░░░░░░░░░░░░░░░   21.86% 
-Friday       39 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
-Saturday     24 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.72% 
-Sunday       49 commits     █████░░░░░░░░░░░░░░░░░░░░   19.84%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -134,5 +92,5 @@ Go                       1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MSamiDev/MSamiDev/main/charts/bar_graph.png) 
 
 
- Last Updated on 08/11/2022 19:00:53 UTC
+ Last Updated on 09/11/2022 18:49:06 UTC
 <!--END_SECTION:waka-->
