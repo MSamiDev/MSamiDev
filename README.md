@@ -9,9 +9,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!-- Contribution Graph-->
-[![Mohammad Sami's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MSamiDev&theme=xcode&bg_color=010811&color=F3CCAE&line=F5F3E4&point=F26F2D&hide_border=true)](https://github.com/MSamiDev)
 
-[![Mohammad Sami's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MSamiDev&bg_color=010811&color=F3CCAE&line=F5F3E4&point=F26F2D&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Mohammad Sami's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MSamiDev&theme=xcode&bg_color=010811&color=F3CCAE&line=F5F3E4&point=F26F2D&area=true&hide_border=true)](https://github.com/MSamiDev)
 
 |  Stats                                                                                                                                                                                             |  Stats                                                                                                                               |
 | -----------                                                                                                                                                                                        | -----------                                                                                                                          |
