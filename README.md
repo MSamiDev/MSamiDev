@@ -58,40 +58,79 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   
 ***
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-56%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-242%20hrs%2018%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--14%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 316 Contributions in the Year 2022
+> 📦 184.9 kB Used in GitHub's Storage 
  > 
-> 📦 145.1 kB Used in GitHub's Storage 
+> 🏆 325 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
-> 📜 31 Public Repositories 
+> 📜 66 Public Repositories 
  > 
-> 🔑 0 Private Repositories  
+> 🔑 3 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                181 commits         ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
+🌆 Daytime                284 commits         █████████░░░░░░░░░░░░░░░░   34.85 % 
+🌃 Evening                196 commits         ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
+🌙 Night                  154 commits         █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   115 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+Tuesday                  56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+Wednesday                139 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+Thursday                 113 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+Friday                   88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+Saturday                 81 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+Sunday                   223 commits         ███████░░░░░░░░░░░░░░░░░░   27.36 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               5 repos             █████████░░░░░░░░░░░░░░░░   38.46% 
-SCSS                     4 repos             ███████░░░░░░░░░░░░░░░░░░   30.77% 
-CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
-Go                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
-
+JavaScript               32 repos            ██████████████░░░░░░░░░░░   55.17 % 
+HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 ```
+
 
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/MSamiDev/MSamiDev/main/charts/bar_graph.png) 
+![Lines of Code chart](https://raw.githubusercontent.com/MSamiDev/MSamiDev/main/assets/bar_graph.png)
 
 
- Last Updated on 09/11/2022 18:49:06 UTC
+ Last Updated on 10/09/2023 19:26:10 UTC
 <!--END_SECTION:waka-->
