@@ -37,6 +37,7 @@ You can click the Preview link to take a look at your changes.
 | 📈 Version Control | ![Mohammad Sami](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Mohammad Sami](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  |
 | 📦 CI/CD      | ![Mohammad Sami](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)  |
 | 📦 Containers | ![Mohammad Sami](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| 🏆 Hackathons Won | ![Mohammad Sami](https://img.shields.io/badge/SheBuilds-2nd-pink?style=for-the-badge&logo=appveyor) ![Mohammad Sami](https://img.shields.io/badge/HTM%203.0-3rd-orange?style=for-the-badge&logo=appveyor) ![Mohammad Sami](https://img.shields.io/badge/HackNITR-3rd-yellow?style=for-the-badge&logo=appveyor) ![Mohammad Sami](https://img.shields.io/badge/Hack36%206.0-3rd-blue?style=for-the-badge&logo=appveyor) |
   
 ***
 
