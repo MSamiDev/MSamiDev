@@ -67,7 +67,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 **🐱 My GitHub Data** 
 
-> 📦 185.0 kB Used in GitHub's Storage 
+> 📦 185.1 kB Used in GitHub's Storage 
  > 
 > 🏆 387 Contributions in the Year 2023
  > 
@@ -139,5 +139,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MSamiDev/MSamiDev/main/assets/bar_graph.png)
 
 
- Last Updated on 07/11/2023 18:39:34 UTC
+ Last Updated on 08/11/2023 18:39:50 UTC
 <!--END_SECTION:waka-->
