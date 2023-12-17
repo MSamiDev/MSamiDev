@@ -59,7 +59,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   
 ***
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-323%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-325%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -67,7 +67,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 **🐱 My GitHub Data** 
 
-> 📦 193.0 kB Used in GitHub's Storage 
+> 📦 193.1 kB Used in GitHub's Storage 
  > 
 > 🏆 441 Contributions in the Year 2023
  > 
@@ -104,16 +104,19 @@ Sunday                   216 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 hr 52 mins        ███████████████████████░░   93.18 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+project-x-admin          1 hr 9 mins         ██████████████░░░░░░░░░░░   57.68 % 
+project_x_backend        51 mins             ███████████░░░░░░░░░░░░░░   42.32 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -133,5 +136,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MSamiDev/MSamiDev/main/assets/bar_graph.png)
 
 
- Last Updated on 16/12/2023 18:38:47 UTC
+ Last Updated on 17/12/2023 18:39:31 UTC
 <!--END_SECTION:waka-->
