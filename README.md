@@ -69,7 +69,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 > 📦 193.3 kB Used in GitHub's Storage 
  > 
-> 🏆 444 Contributions in the Year 2023
+> 🏆 0 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -140,5 +140,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MSamiDev/MSamiDev/main/assets/bar_graph.png)
 
 
- Last Updated on 31/12/2023 18:38:58 UTC
+ Last Updated on 01/01/2024 18:39:13 UTC
 <!--END_SECTION:waka-->
