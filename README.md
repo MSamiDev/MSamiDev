@@ -73,9 +73,9 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
  > 
 > 💼 Opted to Hire
  > 
-> 📜 71 Public Repositories 
+> 📜 74 Public Repositories 
  > 
-> 🔑 7 Private Repositories 
+> 🔑 4 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -140,5 +140,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MSamiDev/MSamiDev/main/assets/bar_graph.png)
 
 
- Last Updated on 12/01/2024 18:40:42 UTC
+ Last Updated on 13/01/2024 18:38:52 UTC
 <!--END_SECTION:waka-->
