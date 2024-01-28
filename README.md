@@ -59,7 +59,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   
 ***
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-378%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-382%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -104,19 +104,18 @@ Sunday                   220 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               7 hrs 8 mins        █████████████████████████   99.26 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+JavaScript               9 hrs 15 mins       █████████████████████████   98.99 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 11 mins       █████████████████████████   100.00 % 
+VS Code                  9 hrs 21 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-project-x-admin          5 hrs 39 mins       ████████████████████░░░░░   78.74 % 
-project_x_backend        1 hr 31 mins        █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
+project-x-admin          6 hrs 15 mins       █████████████████░░░░░░░░   66.87 % 
+project_x_backend        3 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   33.13 % 
 
 💻 Operating System: 
-Mac                      7 hrs 11 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -136,5 +135,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MSamiDev/MSamiDev/main/assets/bar_graph.png)
 
 
- Last Updated on 27/01/2024 18:39:31 UTC
+ Last Updated on 28/01/2024 18:40:13 UTC
 <!--END_SECTION:waka-->
