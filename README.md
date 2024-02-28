@@ -104,17 +104,16 @@ Sunday                   220 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-project-x-admin          14 mins             ███████████████░░░░░░░░░░   58.51 % 
-project_x_backend        10 mins             ██████████░░░░░░░░░░░░░░░   41.49 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -134,5 +133,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MSamiDev/MSamiDev/main/assets/bar_graph.png)
 
 
- Last Updated on 27/02/2024 18:41:28 UTC
+ Last Updated on 28/02/2024 18:38:44 UTC
 <!--END_SECTION:waka-->
