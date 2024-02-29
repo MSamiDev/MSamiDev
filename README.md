@@ -69,8 +69,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 > 📦 193.6 kB Used in GitHub's Storage 
  > 
-> 🏆 19 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 74 Public Repositories 
@@ -133,5 +131,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MSamiDev/MSamiDev/main/assets/bar_graph.png)
 
 
- Last Updated on 28/02/2024 18:38:44 UTC
+ Last Updated on 29/02/2024 18:38:54 UTC
 <!--END_SECTION:waka-->
