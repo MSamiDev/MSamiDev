@@ -59,7 +59,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   
 ***
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-415%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-416%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -69,7 +69,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 > 📦 194.6 kB Used in GitHub's Storage 
  > 
-> 🏆 1,970 Contributions in the Year 2024
+> 🏆 1,971 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -104,21 +104,18 @@ Sunday                   225 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Vue.js                   1 hr 19 mins        █████████████████████░░░░   84.56 % 
-JavaScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-CSS                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-TSConfig                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Vue.js                   1 hr 12 mins        █████████████████████████   98.56 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 🔥 Editors: 
-VS Code                  1 hr 33 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 13 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-sab-website              1 hr 32 mins        █████████████████████████   99.09 % 
-sab-website-react        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+sab-website              1 hr 13 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 33 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 13 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -138,5 +135,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MSamiDev/MSamiDev/main/assets/bar_graph.png)
 
 
- Last Updated on 14/03/2024 18:40:46 UTC
+ Last Updated on 15/03/2024 18:40:48 UTC
 <!--END_SECTION:waka-->
