@@ -102,22 +102,16 @@ Sunday                   225 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-PHP                      1 hr 4 mins         █████████████░░░░░░░░░░░░   50.81 % 
-JavaScript               18 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-JSON                     18 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-Markdown                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-INI                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 6 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-php-music                1 hr 20 mins        ████████████████░░░░░░░░░   63.56 % 
-bluefish-mvp-express     37 mins             ███████░░░░░░░░░░░░░░░░░░   29.39 % 
-desktop-tutorial         8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 6 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -137,5 +131,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MSamiDev/MSamiDev/main/assets/bar_graph.png)
 
 
- Last Updated on 02/04/2024 18:42:05 UTC
+ Last Updated on 03/04/2024 18:41:02 UTC
 <!--END_SECTION:waka-->
