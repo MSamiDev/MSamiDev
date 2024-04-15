@@ -59,13 +59,15 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   
 ***
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-422%20hrs%2028%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 229.6 kB Used in GitHub's Storage 
+> 📦 230.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -77,17 +79,17 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ```text
 🌞 Morning                213 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
-🌆 Daytime                416 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+🌆 Daytime                417 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
 🌃 Evening                237 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-🌙 Night                  10935 commits       ███████████████████████░░   92.66 % 
+🌙 Night                  10935 commits       ███████████████████████░░   92.65 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   139 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+Monday                   140 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 Tuesday                  78 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 Wednesday                173 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-Thursday                 10961 commits       ███████████████████████░░   92.88 % 
+Thursday                 10961 commits       ███████████████████████░░   92.87 % 
 Friday                   126 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 Saturday                 99 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 Sunday                   225 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
@@ -129,5 +131,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MSamiDev/MSamiDev/main/assets/bar_graph.png)
 
 
- Last Updated on 14/04/2024 23:01:39 UTC
+ Last Updated on 15/04/2024 18:42:03 UTC
 <!--END_SECTION:waka-->
