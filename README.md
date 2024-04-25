@@ -69,8 +69,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 > 📦 230.0 kB Used in GitHub's Storage 
  > 
-> 🏆 1,971 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 76 Public Repositories 
@@ -104,17 +102,17 @@ Sunday                   225 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               7 hrs 30 mins       █████████████████████████   100.00 % 
+JavaScript               5 hrs 54 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 30 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 54 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-project-x-admin          5 hrs 48 mins       ███████████████████░░░░░░   77.36 % 
-project_x_backend        1 hr 41 mins        ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
+project-x-admin          4 hrs 27 mins       ███████████████████░░░░░░   75.57 % 
+project_x_backend        1 hr 26 mins        ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
 
 💻 Operating System: 
-Mac                      7 hrs 30 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -134,5 +132,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MSamiDev/MSamiDev/main/assets/bar_graph.png)
 
 
- Last Updated on 24/04/2024 18:41:15 UTC
+ Last Updated on 25/04/2024 18:41:38 UTC
 <!--END_SECTION:waka-->
