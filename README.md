@@ -61,15 +61,13 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-432%20hrs%2017%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.5%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 230.0 kB Used in GitHub's Storage 
- > 
-> 🏆 1,971 Contributions in the Year 2024
+> 📦 249.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -82,16 +80,16 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 ```text
 🌞 Morning                213 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 🌆 Daytime                419 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-🌃 Evening                237 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-🌙 Night                  10936 commits       ███████████████████████░░   92.64 % 
+🌃 Evening                238 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+🌙 Night                  10936 commits       ███████████████████████░░   92.63 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   140 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Monday                   141 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 Tuesday                  81 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 Wednesday                173 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-Thursday                 10961 commits       ███████████████████████░░   92.85 % 
+Thursday                 10961 commits       ███████████████████████░░   92.84 % 
 Friday                   126 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 Saturday                 99 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 Sunday                   225 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
@@ -133,5 +131,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MSamiDev/MSamiDev/main/assets/bar_graph.png)
 
 
- Last Updated on 28/04/2024 18:42:14 UTC
+ Last Updated on 29/04/2024 18:42:17 UTC
 <!--END_SECTION:waka-->
