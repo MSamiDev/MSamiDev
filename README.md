@@ -59,7 +59,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   
 ***
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-432%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-433%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -67,7 +67,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 **🐱 My GitHub Data** 
 
-> 📦 249.1 kB Used in GitHub's Storage 
+> 📦 249.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -81,15 +81,15 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 🌞 Morning                213 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 🌆 Daytime                419 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
 🌃 Evening                238 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-🌙 Night                  10936 commits       ███████████████████████░░   92.63 % 
+🌙 Night                  10938 commits       ███████████████████████░░   92.63 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   141 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-Tuesday                  81 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Tuesday                  83 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 Wednesday                173 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-Thursday                 10961 commits       ███████████████████████░░   92.84 % 
+Thursday                 10961 commits       ███████████████████████░░   92.83 % 
 Friday                   126 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 Saturday                 99 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 Sunday                   225 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
@@ -102,16 +102,21 @@ Sunday                   225 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Vue.js                   1 hr 2 mins         ███████████████████████░░   92.04 % 
+TypeScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 7 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+sab-website              1 hr 6 mins         ████████████████████████░   97.66 % 
+sab-website-react        1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 7 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -131,5 +136,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MSamiDev/MSamiDev/main/assets/bar_graph.png)
 
 
- Last Updated on 29/04/2024 18:42:17 UTC
+ Last Updated on 30/04/2024 18:43:08 UTC
 <!--END_SECTION:waka-->
