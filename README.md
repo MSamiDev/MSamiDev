@@ -69,6 +69,8 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 > 📦 251.8 kB Used in GitHub's Storage 
  > 
+> 🏆 1,986 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 77 Public Repositories 
@@ -112,9 +114,9 @@ YAML                     5 mins              ░░░░░░░░░░░�
 VS Code                  10 hrs 10 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-demoProject              3 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   38.91 % 
+demoProject              3 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   38.92 % 
 project-x-admin          3 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   34.53 % 
-project_x_backend        1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
+project_x_backend        1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
 knoworganization-website-36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
 project_x_app_flutter    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 
@@ -139,5 +141,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MSamiDev/MSamiDev/main/assets/bar_graph.png)
 
 
- Last Updated on 20/05/2024 18:43:24 UTC
+ Last Updated on 21/05/2024 18:42:53 UTC
 <!--END_SECTION:waka-->
