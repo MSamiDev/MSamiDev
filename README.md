@@ -69,8 +69,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 > 📦 251.8 kB Used in GitHub's Storage 
  > 
-> 🏆 1,986 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 77 Public Repositories 
@@ -140,5 +138,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MSamiDev/MSamiDev/main/assets/bar_graph.png)
 
 
- Last Updated on 22/05/2024 18:42:59 UTC
+ Last Updated on 23/05/2024 18:43:13 UTC
 <!--END_SECTION:waka-->
