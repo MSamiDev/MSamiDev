@@ -59,7 +59,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   
 ***
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-484%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-485%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -68,8 +68,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 **🐱 My GitHub Data** 
 
 > 📦 251.8 kB Used in GitHub's Storage 
- > 
-> 🏆 1,986 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -104,18 +102,20 @@ Sunday                   228 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     1 hr 33 mins        ████████████████░░░░░░░░░   65.36 % 
-CSS                      49 mins             █████████░░░░░░░░░░░░░░░░   34.60 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+HTML                     1 hr 33 mins        █████████████░░░░░░░░░░░░   51.94 % 
+CSS                      49 mins             ███████░░░░░░░░░░░░░░░░░░   27.50 % 
+JavaScript               36 mins             █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 23 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 59 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-demoProject              2 hrs 23 mins       █████████████████████████   100.00 % 
+demoProject              2 hrs 59 mins       █████████████████████████   99.54 % 
+Hauora                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 💻 Operating System: 
-Mac                      2 hrs 23 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -135,5 +135,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MSamiDev/MSamiDev/main/assets/bar_graph.png)
 
 
- Last Updated on 30/05/2024 18:44:14 UTC
+ Last Updated on 31/05/2024 18:42:59 UTC
 <!--END_SECTION:waka-->
