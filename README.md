@@ -59,6 +59,8 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   
 ***
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-501%20hrs%2048%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.9%20million%20lines%20of%20code-blue)
@@ -67,14 +69,56 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 > 📦 253.2 kB Used in GitHub's Storage 
  > 
-> 🏆 2,022 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 79 Public Repositories 
  > 
 > 🔑 5 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                250 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+🌆 Daytime                403 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+🌃 Evening                261 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+🌙 Night                  10994 commits       ███████████████████████░░   92.32 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   148 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+Tuesday                  100 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Wednesday                181 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Thursday                 10931 commits       ███████████████████████░░   91.80 % 
+Friday                   191 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+Saturday                 120 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Sunday                   237 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+TypeScript               2 hrs 36 mins       █████████████████░░░░░░░░   68.52 % 
+JavaScript               1 hr 11 mins        ████████░░░░░░░░░░░░░░░░░   31.43 % 
+Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+
+🔥 Editors: 
+VS Code                  3 hrs 48 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+riyu-system              2 hrs 43 mins       ██████████████████░░░░░░░   71.71 % 
+demoProject              1 hr 4 mins         ███████░░░░░░░░░░░░░░░░░░   28.04 % 
+project-x-admin          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+
+💻 Operating System: 
+Mac                      3 hrs 48 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -92,5 +136,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MSamiDev/MSamiDev/main/assets/bar_graph.png)
 
 
- Last Updated on 15/06/2024 18:42:37 UTC
+ Last Updated on 16/06/2024 18:43:16 UTC
 <!--END_SECTION:waka-->
