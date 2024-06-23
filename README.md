@@ -59,15 +59,17 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   
 ***
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-501%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-503%20hrs%2034%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 253.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 2,022 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -102,16 +104,18 @@ Sunday                   237 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               9 mins              █████████████████████████   100.00 % 
+TypeScript               1 hr 34 mins        ██████████████████████░░░   88.59 % 
+JavaScript               12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
 
 🔥 Editors: 
-VS Code                  9 mins              █████████████████████████   100.00 % 
+VS Code                  1 hr 46 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-project-x-admin          9 mins              █████████████████████████   100.00 % 
+riyu-system              1 hr 34 mins        ██████████████████████░░░   88.59 % 
+project-x-admin          12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
 
 💻 Operating System: 
-Mac                      9 mins              █████████████████████████   100.00 % 
+Mac                      1 hr 46 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -131,5 +135,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MSamiDev/MSamiDev/main/assets/bar_graph.png)
 
 
- Last Updated on 22/06/2024 18:41:52 UTC
+ Last Updated on 23/06/2024 18:41:32 UTC
 <!--END_SECTION:waka-->
