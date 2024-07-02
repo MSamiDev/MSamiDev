@@ -59,7 +59,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   
 ***
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-504%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-505%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -68,8 +68,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 **🐱 My GitHub Data** 
 
 > 📦 253.2 kB Used in GitHub's Storage 
- > 
-> 🏆 2,022 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -104,17 +102,19 @@ Sunday                   237 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 14 mins        █████████████████████████   100.00 % 
+JavaScript               1 hr 17 mins        ██████████████████░░░░░░░   71.35 % 
+HTML                     29 mins             ███████░░░░░░░░░░░░░░░░░░   27.45 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 
 🔥 Editors: 
-VS Code                  1 hr 14 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 48 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-demoProject              1 hr 13 mins        █████████████████████████   99.37 % 
-project_x_backend        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+demoProject              1 hr 48 mins        █████████████████████████   99.57 % 
+project_x_backend        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 💻 Operating System: 
-Mac                      1 hr 14 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 48 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -134,5 +134,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MSamiDev/MSamiDev/main/assets/bar_graph.png)
 
 
- Last Updated on 01/07/2024 18:44:18 UTC
+ Last Updated on 02/07/2024 18:44:32 UTC
 <!--END_SECTION:waka-->
