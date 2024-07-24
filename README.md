@@ -59,8 +59,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   
 ***
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-512%20hrs%2017%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.9%20million%20lines%20of%20code-blue)
@@ -69,53 +67,12 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 > 📦 253.2 kB Used in GitHub's Storage 
  > 
-> 🏆 2,022 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 79 Public Repositories 
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                250 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-🌆 Daytime                403 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
-🌃 Evening                261 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
-🌙 Night                  10994 commits       ███████████████████████░░   92.32 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   148 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-Tuesday                  100 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-Wednesday                181 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-Thursday                 10931 commits       ███████████████████████░░   91.80 % 
-Friday                   191 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-Saturday                 120 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
-Sunday                   237 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -133,5 +90,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MSamiDev/MSamiDev/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2024 18:44:40 UTC
+ Last Updated on 24/07/2024 18:46:32 UTC
 <!--END_SECTION:waka-->
