@@ -59,7 +59,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   
 ***
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-512%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-512%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -68,6 +68,8 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 **🐱 My GitHub Data** 
 
 > 📦 253.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 2,024 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -102,16 +104,18 @@ Sunday                   236 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               5 mins              █████████████████████████   100.00 % 
+Python                   35 mins             ██████████████████████░░░   86.33 % 
+TypeScript               5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.00 % 
+VS Code                  40 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-earlybird                5 mins              █████████████████████████   100.00 % 
+free                     35 mins             ██████████████████████░░░   86.33 % 
+earlybird                5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
 
 💻 Operating System: 
-Mac                      5 mins              █████████████████████████   100.00 % 
+Mac                      40 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -131,5 +135,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MSamiDev/MSamiDev/main/assets/bar_graph.png)
 
 
- Last Updated on 06/08/2024 18:46:13 UTC
+ Last Updated on 07/08/2024 18:48:01 UTC
 <!--END_SECTION:waka-->
