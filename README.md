@@ -69,8 +69,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 > 📦 253.9 kB Used in GitHub's Storage 
  > 
-> 🏆 2,064 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 79 Public Repositories 
@@ -104,17 +102,16 @@ Sunday                   256 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   4 mins              █████████████████░░░░░░░░   67.11 % 
-VS Code                  2 mins              ████████░░░░░░░░░░░░░░░░░   32.89 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-earlybird-next           7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -134,5 +131,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MSamiDev/MSamiDev/main/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2024 18:49:06 UTC
+ Last Updated on 11/09/2024 18:48:49 UTC
 <!--END_SECTION:waka-->
