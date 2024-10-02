@@ -59,6 +59,8 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   
 ***
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-535%20hrs%2016%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.9%20million%20lines%20of%20code-blue)
@@ -102,18 +104,16 @@ Sunday                   255 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Dart                     14 mins             █████████████████████░░░░   84.42 % 
-Bash                     2 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-project_g_flutter        14 mins             █████████████████████░░░░   84.42 % 
-.mohammadsami            2 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -133,5 +133,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MSamiDev/MSamiDev/main/assets/bar_graph.png)
 
 
- Last Updated on 01/10/2024 18:50:27 UTC
+ Last Updated on 02/10/2024 18:51:47 UTC
 <!--END_SECTION:waka-->
