@@ -61,7 +61,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-540%20hrs%2037%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.9%20million%20lines%20of%20code-blue)
 
@@ -104,20 +104,16 @@ Sunday                   268 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               3 hrs 12 mins       ████████████████████░░░░░   81.95 % 
-JavaScript               21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-JSON                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 55 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-project-g-next           3 hrs 55 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      3 hrs 55 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -137,5 +133,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MSamiDev/MSamiDev/main/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2024 18:47:23 UTC
+ Last Updated on 15/10/2024 18:50:55 UTC
 <!--END_SECTION:waka-->
