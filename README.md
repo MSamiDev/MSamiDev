@@ -61,13 +61,15 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-540%20hrs%2037%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 254.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 2,079 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -131,5 +133,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MSamiDev/MSamiDev/main/assets/bar_graph.png)
 
 
- Last Updated on 16/10/2024 18:50:41 UTC
+ Last Updated on 17/10/2024 18:50:01 UTC
 <!--END_SECTION:waka-->
